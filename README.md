@@ -1,2 +1,2 @@
 # odin-recipies
-Practicing basic frontend
+Outlining a recipie website using only HTML
